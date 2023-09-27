@@ -1,0 +1,15 @@
+body{
+    height: 100%;
+}
+.bg{
+    background-image: url(../assets/blob-haikei.png);
+}
+
+.badge-circle {
+    width: 30px; /* Establece el ancho deseado para el círculo */
+    height: 30px; /* Establece la altura deseada para el círculo */
+    border-radius: 50%; /* Crea un círculo con bordes redondeados */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

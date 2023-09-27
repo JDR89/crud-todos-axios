@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "text": "primero",
+      "done": false,
+      "urgency": "low",
+      "id": 1
+    },
+    {
+      "text": "segundo",
+      "done": false,
+      "urgency": "medium",
+      "id": 2
+    },
+    {
+      "text": "tercero",
+      "done": false,
+      "urgency": "high",
+      "id": 3
+    },
+    {
+      "text": "cuarto",
+      "done": false,
+      "urgency": "low",
+      "id": 4
+    },
+    {
+      "text": "quinto",
+      "done": false,
+      "urgency": "high",
+      "id": 5
+    },
+    {
+      "text": "sexto",
+      "done": false,
+      "urgency": "medium",
+      "id": 6
+    }
+  ]
+}
